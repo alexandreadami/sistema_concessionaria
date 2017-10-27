@@ -3,17 +3,21 @@ Sistema Concessionária
 		Dados Pessoa
 		Dados Endereço
 		Salvar os dados Excel
-	2 – Cadastrar Carro
+	
+    2 – Cadastrar Carro
 		Dados do carro
 		Opcionais Carro
 		Cadastrar Carro excel
-	3 – Venda Carro
+	
+    3 – Venda Carro
 		Listar Carros não vendidos
 		Selecionar carro deseja comprar
 		Perguntar se é a vista ou a prazo
 		Caso seja a vista desconto de 5%
 		Caso seja a prazo pergunta o número de parcelas e mostra o valor da parcela
 		Salvar excel Carro e Cliente que comprou;
-	4 – Listar Carros vendidos no dia
+	
+    4 – Listar Carros vendidos no dia
 		Dados do cliente, dados do carro, venda a vista ou a prazo e valor.
-	5 -  Sair
+	
+    5 -  Sair
